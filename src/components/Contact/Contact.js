@@ -14,7 +14,7 @@ const Contact = () => {
                 <i className="fa-solid fa-location-dot icon"></i> Punjab,
                 Pakistan
               </p>
-              <p>
+              <p style={{ margin: "8px 0px", wordBreak: "break-all" }}>
                 <i className="fa-solid fa-envelope icon"></i>{" "}
                 luqmanrajput012@gmail.com
               </p>
